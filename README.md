@@ -50,9 +50,7 @@ List of Experiments:
 
 		o Search movieName for given theatreName.
 
-4. Inheritance (Explanation Video Link- https://www.youtube.com/watch?v=lxaP30kRfBs )
-
-	Employee Payroll System Using Inheritance
+4. Employee Payroll System Using Inheritance (Explanation Video Link- https://www.youtube.com/watch?v=lxaP30kRfBs )
 
 	Write a menu driven application to maintain the employee payroll details using Java to demonstrate the concept of Inheritance. Assume that a company contains Permanent Employee and Contract Employee for whom the salary calculation varies. Your application must contain the following functionalities along with the use of method overriding, and super keyword.
 
