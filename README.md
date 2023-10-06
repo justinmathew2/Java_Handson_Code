@@ -61,3 +61,7 @@ List of Experiments:
 	c. Display the Employee Pay Slip for the month of January 2016 with all details in a proper and neat format.
 	
 	d. Give personalPay Rs. 2000 for all the permanent employee and Rs. 1000 for contract employee
+
+5. Inheritance (Explanation Video Link-https://www.youtube.com/watch?v=JFUbNDcLQjQ )
+
+	Create an abstract class called Shape in pkg1, Square and Rectangle classes in pkg2, Triangle and Circle classes in pkg3. Classes in pkg2 and pkg3 inherit Shape class. Import the necessary packages in a Test class which contains a menu driven program to calculate the area of various shapes.
