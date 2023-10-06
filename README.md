@@ -1,4 +1,4 @@
-# Java_Handson_Code (Java Code Solutions for Lab Exercises )
+# Java_Handson_Code (Java Code Solutions for Lab Excercises )
 
 List of Experiments:
 
