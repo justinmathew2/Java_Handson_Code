@@ -49,3 +49,17 @@ List of Experiments:
 		o Book Ticket and display the ticket details.
 
 		o Search movieName for given theatreName.
+
+4. Inheritance (Explanation Video Link- https://www.youtube.com/watch?v=lxaP30kRfBs )
+
+	Employee Payroll System Using Inheritance
+
+	Write a menu driven application to maintain the employee payroll details using Java to demonstrate the concept of Inheritance. Assume that a company contains Permanent Employee and Contract Employee for whom the salary calculation varies. Your application must contain the following functionalities along with the use of method overriding, and super keyword.
+
+	a. For each employee your application must have the details such as name, empid, department, designation, experience, basicPay, DA, gradePay, personalPay, iTax, professionalTax, epf
+	
+	b. Get the employee details from user
+	
+	c. Display the Employee Pay Slip for the month of January 2016 with all details in a proper and neat format.
+	
+	d. Give personalPay Rs. 2000 for all the permanent employee and Rs. 1000 for contract employee
