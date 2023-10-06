@@ -34,3 +34,14 @@ List of Experiments:
 
 	e. Write a java program to sum of diagonal of matrix (multidimensional array).
 
+3. Classes and Objects (Explanation Video Link- https://www.youtube.com/watch?v=vBH1UTlSauE )
+   
+   Develop a Menu driven java application to demonstrate the Movie Ticket Booking operations using classes and objects, array of objects as per the following.
+   
+   	Create a class called “Movie” with attributes such as movieId, movieName, theatreName, noOfTickets, ticketCost and add the necessary constructor, setter/getter methods.
+   
+   	Perform the following ticket booking operations with Menu driven options.
+		o Add Movie Details.
+		o Search Movie details for given movieId.
+		o Book Ticket and display the ticket details.
+		o Search movieName for given theatreName.
