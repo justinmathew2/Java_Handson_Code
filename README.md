@@ -41,7 +41,11 @@ List of Experiments:
    	Create a class called “Movie” with attributes such as movieId, movieName, theatreName, noOfTickets, ticketCost and add the necessary constructor, setter/getter methods.
    
    	Perform the following ticket booking operations with Menu driven options.
+   
 		o Add Movie Details.
+
 		o Search Movie details for given movieId.
+
 		o Book Ticket and display the ticket details.
+
 		o Search movieName for given theatreName.
