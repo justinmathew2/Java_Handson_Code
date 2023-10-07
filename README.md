@@ -65,3 +65,9 @@ List of Experiments:
 5. Inheritance (Explanation Video Link-https://www.youtube.com/watch?v=JFUbNDcLQjQ )
 
 	Create an abstract class called Shape in pkg1, Square and Rectangle classes in pkg2, Triangle and Circle classes in pkg3. Classes in pkg2 and pkg3 inherit Shape class. Import the necessary packages in a Test class which contains a menu driven program to calculate the area of various shapes.
+
+6. Interfaces (Explanation Video Link-https://www.youtube.com/watch?v=JqomPFwVGJE&list=PL2ARJYFJqbcImMxZ0lOblv4a-9nBZrstY&index=7)
+
+	Create an interface called Library which contains the functions such as ReturnBook, BorrowBook, and Display. Create Student class and Faculty class both of which implements the Library interface. Use necessary class members such as regno, name, department, no_books, etc. Perform menu driven operations like CreateStudent, CreateFaculty, ReturnBook, BorrowBook and Display from a Main class.
+
+	Note: You should use array of objects 
