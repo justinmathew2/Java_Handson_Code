@@ -87,3 +87,7 @@ List of Experiments:
 8. Multithreading (Explanation Video Link- https://www.youtube.com/watch?v=Ayd9wCqsuy0&index=8&list=PL2ARJYFJqbcImMxZ0lOblv4a-9nBZrstY)
 
 	Create a java application to solve the producer consumer problem using java’s interthread communication as follows. Get a sentence as input and extract the words from it. Now producer should produce word by word and consumer must consume that word respectively.
+
+9. Applet (Explanation Video Link- https://www.youtube.com/watch?v=2gGwrAsv7RU&list=PL2ARJYFJqbcImMxZ0lOblv4a-9nBZrstY&index=9 )
+
+	Create an applet program to simulate sunset. 
