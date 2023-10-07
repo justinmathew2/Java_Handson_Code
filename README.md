@@ -72,7 +72,7 @@ List of Experiments:
 
 	Note: You should use array of objects 
 
-7. Exception Handling (Explanation Video Link-)
+7. Exception Handling (Explanation Video Link- https://www.youtube.com/watch?v=zHjiOfGlkxY&feature=youtu.be)
 
 	Create an interface called Library which contains the functions such as ReturnBook, BorrowBook, and Display. Create Student class and Faculty class both of which implements the Library interface. Use necessary class members such as regno, name, department, no_books, etc. Perform menu driven operations like CreateStudent, CreateFaculty, ReturnBook, BorrowBook and Display from a Main class.
 
