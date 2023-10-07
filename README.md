@@ -71,3 +71,15 @@ List of Experiments:
 	Create an interface called Library which contains the functions such as ReturnBook, BorrowBook, and Display. Create Student class and Faculty class both of which implements the Library interface. Use necessary class members such as regno, name, department, no_books, etc. Perform menu driven operations like CreateStudent, CreateFaculty, ReturnBook, BorrowBook and Display from a Main class.
 
 	Note: You should use array of objects 
+
+7. Exception Handling (Explanation Video Link-)
+
+	Create an interface called Library which contains the functions such as ReturnBook, BorrowBook, and Display. Create Student class and Faculty class both of which implements the Library interface. Use necessary class members such as regno, name, department, no_books, etc. Perform menu driven operations like CreateStudent, CreateFaculty, ReturnBook, BorrowBook and Display from a Main class.
+
+ 	Note: You should use array of objects. 
+
+	Create custom Exceptions for following conditions: 
+	
+		a) A student can borrow maximum of 5 books otherwise raise exception.
+ 		
+		b) A faculty can borrow maximum of 7 books otherwise raise exception. 
