@@ -91,3 +91,7 @@ List of Experiments:
 9. Applet (Explanation Video Link- https://www.youtube.com/watch?v=2gGwrAsv7RU&list=PL2ARJYFJqbcImMxZ0lOblv4a-9nBZrstY&index=9 )
 
 	Create an applet program to simulate sunset. 
+
+10. File Handling (Explanation Video Link- https://www.youtube.com/watch?v=wiWI81Ydq90&list=PL2ARJYFJqbcImMxZ0lOblv4a-9nBZrstY&index=10)
+
+	Create a function in Java to count the number of embedded white spaces and punctuations present in a text file named "Sample.txt".
