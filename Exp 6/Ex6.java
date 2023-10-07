@@ -1,4 +1,3 @@
-package ex6;
 import java.util.*;
 interface Library
 {
