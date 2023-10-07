@@ -72,7 +72,7 @@ List of Experiments:
 
 	Note: You should use array of objects 
 
-7. Exception Handling (Explanation Video Link-)
+7. Exception Handling (Explanation Video Link- https://www.youtube.com/watch?v=zHjiOfGlkxY&feature=youtu.be)
 
 	Create an interface called Library which contains the functions such as ReturnBook, BorrowBook, and Display. Create Student class and Faculty class both of which implements the Library interface. Use necessary class members such as regno, name, department, no_books, etc. Perform menu driven operations like CreateStudent, CreateFaculty, ReturnBook, BorrowBook and Display from a Main class.
 
@@ -83,3 +83,7 @@ List of Experiments:
 		a) A student can borrow maximum of 5 books otherwise raise exception.
  		
 		b) A faculty can borrow maximum of 7 books otherwise raise exception. 
+
+8. Multithreading (Explanation Video Link- https://www.youtube.com/watch?v=Ayd9wCqsuy0&index=8&list=PL2ARJYFJqbcImMxZ0lOblv4a-9nBZrstY)
+
+	Create a java application to solve the producer consumer problem using java’s interthread communication as follows. Get a sentence as input and extract the words from it. Now producer should produce word by word and consumer must consume that word respectively.
